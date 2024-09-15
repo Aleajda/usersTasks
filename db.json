@@ -1,0 +1,279 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "login": "Admin1Login",
+      "password": "Admin1Pass",
+      "name": "Админ1",
+      "type_id": 2,
+      "last_visit_date": "2021-07-11T00:00:00"
+    },
+    {
+      "id": "7",
+      "login": "Admin2Login",
+      "password": "Admin2Pass",
+      "name": "Админ2",
+      "type_id": 2,
+      "last_visit_date": "2021-02-19T00:00:00"
+    },
+    {
+      "id": "10",
+      "login": "Guest2Login",
+      "password": "Guest2Pass",
+      "name": "Гость2",
+      "type_id": 5,
+      "last_visit_date": "2021-06-17T00:00:00"
+    },
+    {
+      "id": "11",
+      "login": "User3Login",
+      "password": "User3Pass",
+      "name": "Пользователь3",
+      "type_id": 1,
+      "last_visit_date": "2021-04-20T00:00:00"
+    },
+    {
+      "id": "12",
+      "login": "Admin3Login",
+      "password": "Admin3Pass",
+      "name": "Админ3",
+      "type_id": 2,
+      "last_visit_date": "2021-05-11T00:00:00"
+    },
+    {
+      "id": "13",
+      "login": "Mod3Login",
+      "password": "Mod3Pass",
+      "name": "Модератор3",
+      "type_id": 3,
+      "last_visit_date": "2021-01-18T00:00:00"
+    },
+    {
+      "id": "14",
+      "login": "Test3Login",
+      "password": "Test3Pass",
+      "name": "Тест3",
+      "type_id": 4,
+      "last_visit_date": "2021-02-16T00:00:00"
+    },
+    {
+      "id": "15",
+      "login": "Guest3Login",
+      "password": "Guest3Pass",
+      "name": "Гость3",
+      "type_id": 5,
+      "last_visit_date": "2021-06-27T00:00:00"
+    },
+    {
+      "id": "16",
+      "login": "andr16",
+      "password": "qwerty",
+      "name": "Андрей",
+      "type_id": 1,
+      "last_visit_date": "2021-03-19T00:00:00"
+    },
+    {
+      "id": "17",
+      "login": "serg123",
+      "password": "asdfgh",
+      "name": "Сергей",
+      "type_id": 5,
+      "last_visit_date": "2021-04-14T00:00:00"
+    },
+    {
+      "id": "18",
+      "login": "anttoonn",
+      "password": "123qwert",
+      "name": "Антон",
+      "type_id": 3,
+      "last_visit_date": "2021-01-17T00:00:00"
+    },
+    {
+      "id": "19",
+      "login": "sasha1997",
+      "password": "19970101",
+      "name": "Александр",
+      "type_id": 2,
+      "last_visit_date": "2021-02-14T00:00:00"
+    },
+    {
+      "id": "20",
+      "login": "nat789",
+      "password": "passworddrowssap",
+      "name": "Наталья",
+      "type_id": 1,
+      "last_visit_date": "2021-07-13T00:00:00"
+    },
+    {
+      "id": "21",
+      "login": "olggaa",
+      "password": "mypass123",
+      "name": "Ольга",
+      "type_id": 4,
+      "last_visit_date": "2021-05-19T00:00:00"
+    },
+    {
+      "id": "22",
+      "login": "max123",
+      "password": "pass789",
+      "name": "Максим",
+      "type_id": 4,
+      "last_visit_date": "2021-04-12T00:00:00"
+    },
+    {
+      "id": "23",
+      "login": "pavel546",
+      "password": "5tgb4rfv",
+      "name": "Павел",
+      "type_id": 5,
+      "last_visit_date": "2021-05-11T00:00:00"
+    },
+    {
+      "id": "24",
+      "login": "mar1983",
+      "password": "123456789",
+      "name": "Мария",
+      "type_id": 3,
+      "last_visit_date": "2021-06-26T00:00:00"
+    },
+    {
+      "id": "25",
+      "login": "oleggelo",
+      "password": "drowssap",
+      "name": "Олег",
+      "type_id": 1,
+      "last_visit_date": "2021-02-23T00:00:00"
+    },
+    {
+      "id": "27",
+      "login": "alina123",
+      "password": "passssap",
+      "name": "Алина",
+      "type_id": 5,
+      "last_visit_date": "2021-06-16T00:00:00"
+    },
+    {
+      "id": "31",
+      "login": "nasttsan",
+      "password": "toppass789",
+      "name": "Анастасия",
+      "type_id": 2,
+      "last_visit_date": "2021-02-15T00:00:00"
+    },
+    {
+      "id": "32",
+      "login": "georg4",
+      "password": "gfhjkm",
+      "name": "Георгий",
+      "type_id": 4,
+      "last_visit_date": "2021-05-26T00:00:00"
+    },
+    {
+      "id": "34",
+      "login": "anna3",
+      "password": "trefmpomsd213",
+      "name": "Анна",
+      "type_id": 2,
+      "last_visit_date": "2021-03-25T00:00:00"
+    },
+    {
+      "id": "35",
+      "login": "katyaaytak",
+      "password": "qwerty987",
+      "name": "Екатерина",
+      "type_id": 3,
+      "last_visit_date": "2021-06-15T00:00:00"
+    },
+    {
+      "id": "36",
+      "name": "Алексей",
+      "login": "Aleajda",
+      "password": "123123",
+      "last_visit_date": "2024-09-12T15:21:42",
+      "type_id": 1
+    },
+    {
+      "id": "37",
+      "name": "12412412412",
+      "login": "2144",
+      "password": "124124",
+      "last_visit_date": "2024-09-12T20:42:43",
+      "type_id": 1
+    },
+    {
+      "id": "38",
+      "name": "2142412",
+      "login": "1233",
+      "password": "23231",
+      "last_visit_date": "2024-09-12T21:12:17",
+      "type_id": 1
+    },
+    {
+      "id": "39",
+      "name": "Алексей3",
+      "login": "1234",
+      "password": "1231",
+      "last_visit_date": "2024-09-12T21:13:16",
+      "type_id": 1
+    },
+    {
+      "id": "40",
+      "name": "МАРАТУС",
+      "login": "marik",
+      "password": "123123",
+      "last_visit_date": "2024-09-12T21:17:54",
+      "type_id": 1
+    },
+    {
+      "id": "41",
+      "name": "Тереза",
+      "login": "Terinka",
+      "password": "123123",
+      "last_visit_date": "2024-09-14T01:34:24",
+      "type_id": 1
+    },
+    {
+      "id": "42",
+      "name": "dggsfsdf",
+      "login": "fgdfgdf",
+      "password": "dgdfgdg",
+      "last_visit_date": "2024-09-15T16:19:31",
+      "type_id": 1
+    },
+    {
+      "id": "43",
+      "name": "444",
+      "login": "444",
+      "password": "444",
+      "last_visit_date": "2024-09-15T16:28:23",
+      "type_id": 1
+    }
+  ],
+  "roles": [
+    {
+      "id": "1",
+      "name": "Пользователь",
+      "allow_edit": false
+    },
+    {
+      "id": "2",
+      "name": "Администратор",
+      "allow_edit": true
+    },
+    {
+      "id": "3",
+      "name": "Модератор",
+      "allow_edit": true
+    },
+    {
+      "id": "4",
+      "name": "Тестировщик",
+      "allow_edit": false
+    },
+    {
+      "id": "5",
+      "name": "Гость",
+      "allow_edit": false
+    }
+  ]
+}
