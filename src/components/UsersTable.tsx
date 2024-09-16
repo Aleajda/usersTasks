@@ -159,7 +159,32 @@ const UsersTable: React.FC<Props> = props => {
         {
             title: 'Role',
             dataIndex: 'type_id',
-            key: 'type_id',
+            filters: [
+                {
+                    text: 'Администратор',
+                    value: 'Администратор',
+                },
+                {
+                    text: 'Пользователь',
+                    value: 'Пользователь',
+                },
+                {
+                    text: 'Гость',
+                    value: 'Гость',
+                },
+                {
+                    text: 'Модератор',
+                    value: 'Модератор',
+                },
+                {
+                    text: 'Тестировщик',
+                    value: 'Тестировщик',
+                }
+            ],
+            //@ts-ignore
+            onFilter: (value, record) => record.type_id.startsWith(value as string),
+            filterSearch: true,
+            width: '40%',
         },
         {
             title: 'VisitDate',
@@ -196,7 +221,8 @@ const UsersTable: React.FC<Props> = props => {
     // @ts-ignore
     return (
         <div style={{width: '80vw', margin: 'auto', position: 'relative'}}>
-            <div style={{position: "absolute", right: 0, top: "18px", zIndex: "100"}}>
+            <div style={{position: "absolute", right: 0, top: "18px", zIndex: "100np"}}>
+                <span style={{paddingRight: "10px"}}>Отсортировать по дате:</span>
                 {// @ts-ignore
                 <RangePicker onChange={onChange}/>
                 }
