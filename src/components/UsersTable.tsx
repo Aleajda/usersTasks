@@ -221,10 +221,10 @@ const UsersTable: React.FC<Props> = props => {
     // @ts-ignore
     return (
         <div style={{width: '80vw', margin: 'auto', position: 'relative'}}>
-            <div style={{position: "absolute", right: 0, top: "18px", zIndex: "100np"}}>
+            <div style={{position: "absolute", right: 0, top: "18px", zIndex: "10"}}>
                 <span style={{paddingRight: "10px"}}>Отсортировать по дате:</span>
                 {// @ts-ignore
-                <RangePicker onChange={onChange}/>
+                <RangePicker onChange={onChange} style={{zIndex: "100"}}/>
                 }
             </div>
             <Table dataSource={users} columns={columns} pagination={{position: ["topLeft"]}}/>
